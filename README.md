@@ -1,6 +1,4 @@
 # Anthem
-## Project Overview
-This Unity-based project incorporates a variety of modern game development practices and tools. Leveraging Unity's robust and flexible engine, it provides an engaging and interactive user experience through components such as video playbacks, dialogue systems, game state management, and interactions with the game world.
 
 ## Key Technologies
 ### 1. Scene Management:
