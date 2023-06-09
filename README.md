@@ -1,4 +1,6 @@
 # Anthem
+## Project Overview
+This project is an interactive 3D game developed in Unity. It utilizes the Unity Engine to create engaging gameplay, dialogue, and cutscenes. It also blends interactive gameplay elements with real-world physical interactions, facilitated by an Arduino controller.
 
 ## Key Technologies
 ### 1. Scene Management:
