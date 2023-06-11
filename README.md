@@ -6,7 +6,9 @@ In the epoch of ancient civilizations, between the 6th and 8th centuries BC, a t
 A pivotal objective awaits players in this game: 'Locate the Altars and Gather the Fragments'. Three elusive altars are hidden in diverse locations across the map. The task at hand for the players is to pinpoint these altars and retrieve the fragments they hold. 
 
 ## Characters Design
-The game presents the protagonist and his shadow as core characters, embodied as celestial opposites akin to the sun and the moon. Players interact with two types of NPCs — adversaries posing challenges to progress, and storyline NPCs, who drive the narrative and reveal plot twists.
+The game presents the protagonist and his shadow as core characters, embodied as celestial opposites akin to the sun and the moon. Players interact with two types of NPCs — adversaries posing challenges to progress, and storyline NPCs, who drive the narrative and reveal plot twists.  
+![IMB_Jem90n](https://github.com/Yufei-Ma-098/Anthem/assets/119874724/55495f7a-cd28-49d5-832a-67e15c5665ee)  
+
 
 ## Physical Interaction
 Our custom gamepad, structured in three vertically aligned sections, offers an immersive experience. The design integrates game-inspired motifs, with the primary electronic components housed in the lower part. Featuring three joysticks and a well-considered button layout, the controller enhances navigation and gameplay.
