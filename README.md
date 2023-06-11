@@ -1,5 +1,5 @@
 # Anthem
-For a detailed walkthrough of the project, click on the link below to watch video on YouTube:
+For a detailed walkthrough of the project, click on the link below to watch video on YouTube:  
 [Watch the Project Demonstration Video here](https://www.youtube.com/watch?v=wOBohWgKPus)
 
 ## Introduction
@@ -10,8 +10,6 @@ A pivotal objective awaits players in this game: 'Locate the Altars and Gather t
 
 ## Characters Design
 The game presents the protagonist and his shadow as core characters, embodied as celestial opposites akin to the sun and the moon. Players interact with two types of NPCs — adversaries posing challenges to progress, and storyline NPCs, who drive the narrative and reveal plot twists.  
-![IMB_Jem90n](https://github.com/Yufei-Ma-098/Anthem/assets/119874724/55495f7a-cd28-49d5-832a-67e15c5665ee)  
-
 
 ## Physical Interaction
 Our custom gamepad, structured in three vertically aligned sections, offers an immersive experience. The design integrates game-inspired motifs, with the primary electronic components housed in the lower part. Featuring three joysticks and a well-considered button layout, the controller enhances navigation and gameplay.
