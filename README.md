@@ -1,5 +1,5 @@
 # 2D Platformer Anthem
-For a detailed walkthrough of the project, click on the link below to watch video on YouTube:  
+For a detailed walkthrough of the project, click on the link below to watch the demonstration video on YouTube:  
 [Watch the Project Demonstration Video here](https://www.youtube.com/watch?v=wOBohWgKPus)
 
 ## Introduction
